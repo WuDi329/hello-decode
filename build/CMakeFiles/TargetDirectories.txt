@@ -1,0 +1,4 @@
+/home/wudi/Desktop/wudi-oneapi-demo/hello-decode/build/CMakeFiles/rebuild_cache.dir
+/home/wudi/Desktop/wudi-oneapi-demo/hello-decode/build/CMakeFiles/edit_cache.dir
+/home/wudi/Desktop/wudi-oneapi-demo/hello-decode/build/CMakeFiles/wudi-decode.dir
+/home/wudi/Desktop/wudi-oneapi-demo/hello-decode/build/CMakeFiles/run.dir
