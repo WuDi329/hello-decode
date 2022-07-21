@@ -121,6 +121,7 @@ int main(int argc, char *argv[]) {
 
     decodeParams.mfx.CodecId = MFX_CODEC_AV1;
     decodeParams.IOPattern   = MFX_IOPATTERN_OUT_SYSTEM_MEMORY;
+    //参数可能不对
     sts                      = MFXVideoDECODE_DecodeHeader(session, &bitstream, &decodeParams);
     VERIFY(MFX_ERR_NONE == sts, "error DecodeHeader\n");
 
